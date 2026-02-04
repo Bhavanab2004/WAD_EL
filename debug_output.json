@@ -1,0 +1,75 @@
+{
+  "reviews": [
+    {
+      "college_name": "Bangalore Institute of Technology (BIT)",
+      "course": "MTech",
+      "is_verified": true,
+      "created_at": "2026-02-03T06:52:55.606Z"
+    },
+    {
+      "college_name": "Mount Carmel College",
+      "course": "BBA",
+      "is_verified": true,
+      "created_at": "2026-02-03T06:52:22.376Z"
+    },
+    {
+      "college_name": "Ramaiah College of Arts, Science and Commerce",
+      "course": "BBA",
+      "is_verified": true,
+      "created_at": "2026-02-03T06:50:21.901Z"
+    },
+    {
+      "college_name": "Dayananda Sagar College of Arts, Science and Commerce",
+      "course": "BCA",
+      "is_verified": true,
+      "created_at": "2026-01-26T06:57:14.440Z"
+    },
+    {
+      "college_name": "Dayananda Sagar College of Engineering (DSCE)",
+      "course": "MCA",
+      "is_verified": true,
+      "created_at": "2026-01-26T06:52:44.307Z"
+    }
+  ],
+  "firstCharCodes": [
+    66,
+    97,
+    110,
+    103,
+    97,
+    108,
+    111,
+    114,
+    101,
+    32,
+    73,
+    110,
+    115,
+    116,
+    105,
+    116,
+    117,
+    116,
+    101,
+    32,
+    111,
+    102,
+    32,
+    84,
+    101,
+    99,
+    104,
+    110,
+    111,
+    108,
+    111,
+    103,
+    121,
+    32,
+    40,
+    66,
+    73,
+    84,
+    41
+  ]
+}
